@@ -3,7 +3,7 @@
 
 int main()
 {
-  int engine,wiper signal,pot;
+  int engine,wipersignal,pot;
   char on,low,medium,fast,servometer;
   {
     printf("engine state:");
