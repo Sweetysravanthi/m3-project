@@ -1,1 +1,8 @@
-
+PROJECT TITLE: WIPER CONTROL SYSTEM
+        
+        
+        ABSTRACT:
+                 I have pleasure in introducing my project "WIPER CONTROL SYSTEM",which is fully equipped by sensors circuit and wiper motor.blue,green,orange LEDs. 
+          come ON and OFF alternately set frequency.state A red led will be On.if the button is pressed and held for 2secs.wiper is OFF.the LED will be glow pattern
+          stops on the 4th press.the wiper action starts nxt press onwards as mentioned step2.the red LED is OFF.if the user button is pressed and held for 2 sec.
+          
